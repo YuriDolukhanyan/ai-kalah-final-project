@@ -52,7 +52,4 @@ Kalah/
 ```
 
 ## License
-
 Educational project for AI course.
-
-
