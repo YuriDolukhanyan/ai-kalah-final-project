@@ -4,7 +4,7 @@ A Python implementation of the Kalah game with AI agents using Minimax (with Alp
 
 ## Installation
 
-1. Clone or download this repository
+Clone or download this repository
 
 Note: `tkinter` is usually included with Python. If not available, install it separately:
 - Ubuntu/Debian: `sudo apt-get install python3-tk`
