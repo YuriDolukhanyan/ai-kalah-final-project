@@ -2,17 +2,6 @@
 
 A Python implementation of the Kalah game with AI agents using Minimax (with Alpha-Beta Pruning) and Monte Carlo Tree Search (MCTS) algorithms.
 
-## Features
-
-- **Complete Kalah Game Implementation**: Full game rules including extra turns and captures
-- **Multiple AI Agents**:
-  - Random Agent (baseline)
-  - Minimax with Alpha-Beta Pruning
-  - Monte Carlo Tree Search (MCTS)
-- **GUI Visualization**: Interactive board display with real-time updates
-- **Batch Simulations**: Run 1000-10000 games and collect statistics
-- **Statistics Tracking**: Win rates, average game length, score differences
-
 ## Installation
 
 1. Clone or download this repository
@@ -29,6 +18,16 @@ Note: `tkinter` is usually included with Python. If not available, install it se
 ```bash
 python main.py
 ```
+
+## Features
+
+- **Complete Kalah Game Implementation**: Full game rules including extra turns and captures
+- **Multiple AI Agents**:
+  - Minimax with Alpha-Beta Pruning
+  - Monte Carlo Tree Search (MCTS)
+- **GUI Visualization**: Interactive board display with real-time updates
+- **Batch Simulations**: Run 1000-10000 games and collect statistics
+- **Statistics Tracking**: Win rates, average game length, score differences
 
 ### GUI Features
 
