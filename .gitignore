@@ -1,0 +1,66 @@
+# Compiled source
+*.class
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.iml
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+# Java
+target/
+*.jar
+*.war
+*.ear
+
+# C/C++
+a.out
+build/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+
+# Misc
+*.tmp
+*.swp
