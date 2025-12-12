@@ -1,4 +1,5 @@
 # Kalah Game AI Project
+# AUA - 12/2025 - Students: Yuri Dolukhanyan, Albert Barbashahinyan, Sergey Martirosyan
 
 A Python implementation of the Kalah game with AI agents using Minimax (with Alpha-Beta Pruning) and Monte Carlo Tree Search (MCTS) algorithms.
 
